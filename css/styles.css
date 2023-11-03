@@ -1,0 +1,58 @@
+* {
+}
+
+body {
+  background-color: lightgrey;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h1 {
+  color: blue;
+  text-align: left;
+  padding-top: 20;
+}
+
+h2 {
+  color: black;
+  text-align: left;
+}
+
+img {
+  width: 320px;
+  height: 320px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #666;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  justify-content: space-evenly;
+}
+
+p {
+}
+
+a:hover {
+  color: darkgrey;
+  background-color: red;
+}
+
+li {
+}
