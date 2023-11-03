@@ -10,7 +10,7 @@ body {
 h1 {
   color: blue;
   text-align: left;
-  padding-top: 20;
+  padding: 10px;
 }
 
 h2 {
@@ -40,10 +40,9 @@ ul {
   float: left;
   display: block;
   color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
+  text-align: right;
+  padding: 7px 9px;
   text-decoration: none;
-  justify-content: space-evenly;
 }
 
 p {
